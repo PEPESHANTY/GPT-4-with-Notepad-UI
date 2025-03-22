@@ -52,7 +52,8 @@ OPENAI_API_KEY="your-api-key"
 
 python gui_gpt.py
 ```
-
+Also, you can create a shortcut of launch_notepad.bat to put it on the desktop and run the script in a single click.
+Added Llama3 model for local use. you can find that in the gui_llama.py file
 ---
 
 ## 📁 Project Structure
